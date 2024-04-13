@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 // Importing necessary modules
 import inquirer from 'inquirer';
 // Array to store todo items
